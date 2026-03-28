@@ -1,0 +1,12 @@
+{
+  "name": "evoris",
+  "version": "1.0.0",
+  "description": "An evolving intelligence system that grows with you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
